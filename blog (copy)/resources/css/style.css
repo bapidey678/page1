@@ -222,5 +222,16 @@ svg {
 	padding-right: 20px;
 }
 
-/*.app-button a {
+.app-button a {
 }
+
+.citys img {
+	width: 100%;
+	hight: auto;
+}
+
+.citys .fas,
+.citys .fab {
+	color: #e67e22;
+}
+

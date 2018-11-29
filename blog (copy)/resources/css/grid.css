@@ -27,7 +27,7 @@
 .col {
 	display: block;
 	float:left;
-	margin: 1% 0 1% 1.6%;
+	margin: 1% 0 1% 1.2%;
 }
 
 .col:first-child { margin-left: 0; } /* all browsers except IE6 and lower */
@@ -51,7 +51,7 @@
 }
 
 .span-1-of-2 {
-	width: 49.2%;
+	width: 48.8%;
 }
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
@@ -74,11 +74,11 @@
 }
 
 .span-2-of-3 {
-	width: 66.13%; 
+	width: 65.46%; 
 }
 
 .span-1-of-3 {
-	width: 32.26%; 
+	width: 32.13%; 
 }
 
 
@@ -104,11 +104,11 @@
 }
 
 .span-3-of-4 {
-	width: 74.6%; 
+	width: 73.98%; 
 }
 
 .span-2-of-4 {
-	width: 49.2%; 
+	width: 48.8%; 
 }
 
 .span-1-of-4 {
